@@ -24,3 +24,7 @@
     font-size: 0;
     visibility: hidden;
 }
+
+$primary-color: #160A83;
+
+$secondary-color: complement($primary-color);
