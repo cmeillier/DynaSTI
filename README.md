@@ -3,6 +3,8 @@
 ## Contexte 
 
 
+## Activités du projet 
+* [RDV biblio](biblio.md)
 
 
 ## Membres du projet
