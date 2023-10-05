@@ -1,7 +1,13 @@
 # Projet ANR DynaSTI : modélisation de la dynamique spatio-temporelle de la connectivité fonctionnelle en IRMf de repos
 
 ## Contexte 
-
+Dans ce projet, nous proposons de développer un modèle de dynamique spatio-temporelle de la
+connectivité fonctionnelle (CF) pour le suivi longitudinal de pathologies neurodégénératives ou neuropsychiatriques chez le sujet unique
+en IRMf de repos. L’objectif est de définir un nouveau cadre de travail complet des données IRMf d’un sujet
+jusqu’à la modélisation de la dynamique spatiale et temporelle. Cela permettra dans un second temps de
+mettre en évidence la présence (ou l’absence) de motifs spatio-temporels dans la CF au repos et de
+comparer ces motifs à différents stades de la pathologie afin de faire émerger des marqueurs du
+développement de cette dernière.
 
 ## Activités du projet 
 * [RDV biblio](biblio.md)
