@@ -1,4 +1,7 @@
-# Rendez-vous biblio
+
+
+
+## Rendez-vous biblio
 
 ## Estimation of Dynamic Sparse Connectivity Patterns From Resting State fMRI 
 Auteurs : Biao Cai, Pascal Zille, Julia M. Stephen, Tony W. Wilson, Vince D. Calhoun, Yu Ping Wang
