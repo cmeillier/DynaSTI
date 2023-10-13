@@ -1,8 +1,5 @@
----
-layout: default
----
 
-## Projet ANR DynaSTI : modélisation de la dynamique spatio-temporelle de la connectivité fonctionnelle en IRMf de repos
+## Projet ANR DynaSTI
 
 ## Contexte 
 Dans ce projet, nous proposons de développer un modèle de dynamique spatio-temporelle de la
