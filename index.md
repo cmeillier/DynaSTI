@@ -1,4 +1,6 @@
-
+---
+title: Projet DynaSTI  
+---
 ## Contexte 
 Dans ce projet, nous proposons de développer un modèle de dynamique spatio-temporelle de la
 connectivité fonctionnelle (CF) pour le suivi longitudinal de pathologies neurodégénératives ou neuropsychiatriques chez le sujet unique
