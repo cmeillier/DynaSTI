@@ -23,7 +23,7 @@ Laboratoire ICube, UMR 7357, Université de Strasbourg
 __Vincent Mazet__  
 Laboratoire ICube, UMR 7357, Université de Strasbourg 
 
-__Massyl Moudoud__ 
+__Massyl Moudoud__  
 Laboratoire ICube, UMR 7357, Université de Strasbourg
 
 __Sophie Achard__   
