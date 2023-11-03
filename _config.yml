@@ -4,3 +4,6 @@ plugins:
 
 title: [DynaSTI]
 description: [Modélisation de la dynamique spatio-temporelle de la connectivité fonctionnelle en IRMf de repos]
+
+kramdown:
+  math_engine: katex
