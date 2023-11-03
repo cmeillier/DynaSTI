@@ -10,4 +10,4 @@ Auteurs : Biao Cai, Pascal Zille, Julia M. Stephen, Tony W. Wilson, Vince D. Cal
 
 Introduction de la notion de *dynamic sparse connectivity patterns (dSCPs)* comme base de décomposition des matrices de corrélation calculées sur la fenêtre temporelle glissante d'analyse. 
 
-[compte-rendu](Cai2018.md)
+[compte-rendu](biblio/Cai2018.md)
