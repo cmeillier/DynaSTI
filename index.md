@@ -12,7 +12,7 @@ développement de cette dernière.
 
 ## Activités du projet 
 * [RDV biblio](biblio.md)
-
+* Article **Spatio-temporal model for dynamic functional connectivity in resting state fMRI analysis** accepté à Eusipco 2024. 
 
 ## Membres du projet
 
