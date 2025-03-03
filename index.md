@@ -13,6 +13,7 @@ développement de cette dernière.
 ## Activités du projet 
 * [RDV biblio](biblio.md)
 * Article **Spatio-temporal model for dynamic functional connectivity in resting state fMRI analysis** accepté à Eusipco 2024 : [pdf](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000787.pdf), [code](https://github.com/massylmoudoud/DynaSTI_Eusipco2024)
+* Article en cours de rédaction pour le [GRETSI 2025](https://gretsi.fr/colloque2025/)
 
 ## Membres du projet
 
