@@ -11,7 +11,8 @@ comparer ces motifs à différents stades de la pathologie afin de faire émerge
 développement de cette dernière.
 
 ## Actualités 
-* Article soumis au [GRETSI 2025](https://gretsi.fr/colloque2025/)
+* Juillet 2024 : Présentation du projet en 180s 
+* Article accepté au [GRETSI 2025](https://gretsi.fr/colloque2025/)
 * Février 2025 : séjour de recherche de Massyl Moudoud dans l'équipe de Sophie Achard à Grenoble. Résultats à venir ! 
 * Août 2024 : Article **Spatio-temporal model for dynamic functional connectivity in resting state fMRI analysis** accepté à Eusipco 2024 : [pdf](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000787.pdf), [code](https://github.com/massylmoudoud/DynaSTI_Eusipco2024) 
 * Août 2023 : Article **Analyse de la dynamique spatio-temporelle de la connectivité fonctionnelle cérébrale : données synthétiques et modélisation** présenté dans la session [Bio-ingénierie et Sciences de la vie](https://gretsi.fr/data/colloque/pdf/2023_meillier1268.pdf) au GRETSI à Grenoble.
