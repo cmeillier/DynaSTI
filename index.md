@@ -11,7 +11,8 @@ comparer ces motifs à différents stades de la pathologie afin de faire émerge
 développement de cette dernière.
 
 ## Actualités 
-* Juillet 2024 : Présentation du projet en 180s ![Cliquer ici pour voir l'image](MEILLIER_Celine.pdf "Slide de présentation")
+* Juillet 2024 : Présentation du projet en 180s
+   ![Cliquer ici pour voir l'image](MEILLIER_Celine.pdf "Slide de présentation")
 * Article accepté au [GRETSI 2025](https://gretsi.fr/colloque2025/)
 * Février 2025 : séjour de recherche de Massyl Moudoud dans l'équipe de Sophie Achard à Grenoble. Résultats à venir ! 
 * Août 2024 : Article **Spatio-temporal model for dynamic functional connectivity in resting state fMRI analysis** accepté à Eusipco 2024 : [pdf](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000787.pdf), [code](https://github.com/massylmoudoud/DynaSTI_Eusipco2024) 
