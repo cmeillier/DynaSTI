@@ -11,9 +11,10 @@ comparer ces motifs à différents stades de la pathologie afin de faire émerge
 développement de cette dernière.
 
 ## Actualités 
+* Août 2025 : Article **Correction matricielle de l’indétermination d’échelle pour l’optimisation alternée** présenté dans la session [Problème inverse](https://gretsi.fr/colloque2025/programme/) mardi 26 août 2025 au GRETSI à Strasbourg. 
 * Juillet 2024 : Présentation du projet en 180s
    ![Cliquer ici pour voir l'image](MEILLIER_Celine.pdf "Slide de présentation")
-* Article accepté au [GRETSI 2025](https://gretsi.fr/colloque2025/)
+* Article accepté au [GRETSI 2025]([https://gretsi.fr/colloque2025/](https://gretsi.fr/data/colloque/pdf/2025_moudoud1416.pdf)), le label recherche reproductible a été décerné à cet article, le code permettant de reproduire les résultats est disponible [ici](https://github.com/massylmoudoud/DynaSTI_Gretsi2025).
 * Février 2025 : séjour de recherche de Massyl Moudoud dans l'équipe de Sophie Achard à Grenoble. Résultats à venir ! 
 * Août 2024 : Article **Spatio-temporal model for dynamic functional connectivity in resting state fMRI analysis** accepté à Eusipco 2024 : [pdf](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000787.pdf), [code](https://github.com/massylmoudoud/DynaSTI_Eusipco2024) 
 * Août 2023 : Article **Analyse de la dynamique spatio-temporelle de la connectivité fonctionnelle cérébrale : données synthétiques et modélisation** présenté dans la session [Bio-ingénierie et Sciences de la vie](https://gretsi.fr/data/colloque/pdf/2023_meillier1268.pdf) au GRETSI à Grenoble.
