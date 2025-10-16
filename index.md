@@ -11,7 +11,7 @@ comparer ces motifs à différents stades de la pathologie afin de faire émerge
 développement de cette dernière.
 
 ## Actualités 
-* Octobre 2025 : ![Offre de stage de M2](Stage_dCF.pdf)
+* Octobre 2025 : [Offre de stage de M2](Stage_dCF.pdf)
 * Août 2025 : Article **Correction matricielle de l’indétermination d’échelle pour l’optimisation alternée** présenté dans la session [Problème inverse](https://gretsi.fr/colloque2025/programme/) mardi 26 août 2025 au GRETSI à Strasbourg. 
 * Juillet 2024 : Présentation du projet en 180s
    ![Cliquer ici pour voir l'image](MEILLIER_Celine.pdf "Slide de présentation")
