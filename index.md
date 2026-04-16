@@ -11,8 +11,9 @@ comparer ces motifs à différents stades de la pathologie afin de faire émerge
 développement de cette dernière.
 
 ## Actualités 
+* Avril 2026 : Publication de l'article **Matrix scale ambiguity correction with non-positive definite regularizers in blind inverse problems**, IEEE Signal Processing Letters : [pdf](https://hal.science/hal-05567188/), [code](https://github.com/massylmoudoud/DynaSTI_IEEE_SPL).
 * Octobre 2025 : [Offre de stage de M2](Stage_dCF.pdf)
-* Août 2025 : Article **Correction matricielle de l’indétermination d’échelle pour l’optimisation alternée** présenté dans la session [Problème inverse](https://gretsi.fr/colloque2025/programme/) mardi 26 août 2025 au GRETSI à Strasbourg. 
+* Août 2025 : Article **Correction matricielle de l’indétermination d’échelle pour l’optimisation alternée** présenté dans la session [Problème inverse](https://gretsi.fr/colloque2025/programme/) mardi 26 août 2025 au GRETSI à Strasbourg : [pdf](https://hal.science/hal-05333004/), [code](https://github.com/massylmoudoud/DynaSTI_Gretsi2025). Le code a obtenu le label Or "Code reproductible". 
 * Juillet 2024 : Présentation du projet en 180s
    ![Cliquer ici pour voir l'image](MEILLIER_Celine.pdf "Slide de présentation")
 * Article accepté au [GRETSI 2025]([https://gretsi.fr/colloque2025/](https://gretsi.fr/data/colloque/pdf/2025_moudoud1416.pdf)), le label recherche reproductible a été décerné à cet article, le code permettant de reproduire les résultats est disponible [ici](https://github.com/massylmoudoud/DynaSTI_Gretsi2025).
